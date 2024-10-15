@@ -12,7 +12,10 @@
 <img align="center" src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2&style=plastic">
 <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic">
 <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white&style=plastic">
+
 </p>
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=tfcc13&style=flat-square&color=blue" alt=""/></p>
+
 
 
 <!--
