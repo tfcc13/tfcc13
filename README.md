@@ -18,10 +18,15 @@
 </p>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=tfcc13&style=flat-square&color=blue" alt=""/></p>
 
-<h1 align="center">School Projects</h1>
+<h1 align="center">Some Uni Projects</h1>
 
 UC   |                                         Name                                         | Description | Grade |
 | ---- | :----------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| AED |  [Flight Manager](https://github.com/tfcc13/AED_PROJECT_II_G81)         | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++)                              |    19     |
-| LCOM |  Agalag         | A game, in Minix SO, inspired in Arcade Galaga using low-level devices: Timer, Keyboard, Mouse, Graphics Card and RTC                |    17     |
+| LBAW |  The Auction Hub         | Auction Website with authentication, search and notifications (Laravel, Tailwind, JS, PostgreSQL) |           |    17.2     |
+| LCOM |  Agalag         | A game, in Minix OS, inspired in Arcade Galaga using low-level devices: Timer, Keyboard, Mouse, Graphics Card and RTC   (C)     |    17.4     |
+| ESOF |  EcoSwap         | Mobile App for environmental sustainability that allows to give out pre-owned, or swap, pre-owned items   (Dart w/ Flutter, Firebase)                    |    17.2     |
+| AED |  [Flight Manager](https://github.com/tfcc13/AED_PROJECT_II_G81)         | CLI graph-based system to display air network info and calculate best (filtered) flight routes based on a large dataset (C++)                              |    19     |
+| AED |  [Schedule Manager](https://github.com/tfcc13/AED_PROJECT_G81)         | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses (C++)                              |    18.2     |
+| PROG |  Image Manipulation        | Command-based image manipulation tool for 8-bit RGB images in PNG and XPM2 format (C/C++)                              |    19.3    |
+
 
