@@ -23,4 +23,5 @@
 UC   |                                         Name                                         | Description | Grade |
 | ---- | :----------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | AED |  [Flight Manager](https://github.com/tfcc13/AED_PROJECT_II_G81)         | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++)                              |    19     |
+| LCOM |  Agalag         | A game, in Minix SO, inspired in Arcade Galaga using low-level devices: Timer, Keyboard, Mouse, Graphics Card and RTC                |    17     |
 
