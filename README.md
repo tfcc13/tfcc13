@@ -22,10 +22,10 @@
 
 UC   |                                         Name                                         | Description | Grade |
 | ---- | :----------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| LBAW |  [The Auction Hub](https://github.com/tfcc13/FEUP-3Y1S-LBAW-The-Auction-Hub)         | Auction Website with authentication, search and notifications (Laravel, Tailwind, JS, PostgreSQL) |           |    17.2     |
+| LBAW |  [The Auction Hub](https://github.com/tfcc13/FEUP-3Y1S-LBAW-The-Auction-Hub)         | Auction Website with authentication, search and notifications (Laravel, Tailwind, JS, PostgreSQL) |              17.2     |
 | LCOM |  Agalag         | A game, in Minix OS, inspired in Arcade Galaga using low-level devices: Timer, Keyboard, Mouse, Graphics Card and RTC   (C)     |    17.4     |
-| ESOF |  EcoSwap         | Mobile App for environmental sustainability that allows to give out pre-owned, or swap, pre-owned items   (Dart w/ Flutter, Firebase)                    |    17.2     |
-| AED |  [Flight Manager](https://github.com/tfcc13/AED_PROJECT_II_G81)         | CLI graph-based system to display air network info and calculate best (filtered) flight routes based on a large dataset (C++)                              |    19     |
+| ESOF |  [EcoSwap](https://github.com/tfcc13/FEUP-2Y2S-ES-ECOSWAP)         | Mobile App for environmental sustainability that allows to give out pre-owned, or swap, pre-owned items   (Dart w/ Flutter, Firebase)                    |    17.2     |
+| AED |  [Flight Manager](https://github.com/tfcc13/AED_PROJECT_II_G81)         | CLI graph-based system to display air network info and calculate best (filtered) flight routes based on a large dataset (C++)                              |    19.0     |
 | AED |  [Schedule Manager](https://github.com/tfcc13/AED_PROJECT_G81)         | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses (C++)                              |    18.2     |
 | PROG |  [Image Manipulation](https://github.com/FranciscoGens/FEUP_prog_project)        | Command-based image manipulation tool for 8-bit RGB images in PNG and XPM2 format (C/C++)                              |    19.3    |
 
